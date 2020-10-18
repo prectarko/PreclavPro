@@ -1,2 +1,2 @@
-# PreclavProMarch2020
-PreclavPro is a software for QSPR, specifically QSAR, calculations, version March 2020 PreclavPro make also molecular similarity and intramolecular synergy calculations Sources is archive (in ZIP format) of the sources (in VisualBasic5) for all modules Kits is archive (in ZIP format) of the installation kits (under WindowsXP) for all modules Preclav is the documentation, in PDF format
+# PreclavProOctober2020
+PreclavPro is a software for QSPR, specifically QSAR, calculations, version October 2020 PreclavPro make also molecular similarity and intramolecular synergy calculations Sources is archive (in ZIP format) of the sources (in VisualBasic5) for all modules Kits is archive (in ZIP format) of the installation kits (under WindowsXP) for all modules Preclav is the documentation, in PDF format
