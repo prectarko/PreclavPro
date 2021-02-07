@@ -1,5 +1,5 @@
-# PreclavProFebruary2021
-PreclavPro is a software for QSPR/QSAR calculations, version February 2021. 
+# PreclavPro2102
+PreclavPro, version February 2021, is a software for QSPR/QSAR calculations. 
 PreclavPro make also molecular similarity, logP and intramolecular synergy calculations.
 kitD...kitY are the archives of the installation kits(five modules).
 PreclavD...PreclavY are  the archives of the sources (five modules), in VisualBasic5.
